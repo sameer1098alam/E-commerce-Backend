@@ -1,0 +1,82 @@
+[
+  {
+    "u_serid": 1,
+    "u_name": "JohnDoe",
+    "u_pwd": "pass123",
+    "u_u_email": "johndoe@example.com",
+    "u_addr": "123 Elm St",
+    "u_contact": "555-1234"
+  },
+  {
+    "u_serid": 2,
+    "u_name": "JaneSmith",
+    "u_pwd": "password",
+    "u_u_email": "jane.smith@example.com",
+    "u_addr": "456 Oak St",
+    "u_contact": "555-5678"
+  },
+  {
+    "u_serid": 3,
+    "u_name": "RobertBrown",
+    "u_pwd": "qwerty",
+    "u_u_email": "robert.brown@example.com",
+    "u_addr": "789 Pine St",
+    "u_contact": "555-8765"
+  },
+  {
+    "u_serid": 4,
+    "u_name": "EmilyJones",
+    "u_pwd": "abc123",
+    "u_u_email": "emily.jones@example.com",
+    "u_addr": "101 Maple St",
+    "u_contact": "555-4321"
+  },
+  {
+    "u_serid": 5,
+    "u_name": "MichaelDavis",
+    "u_pwd": "letmein",
+    "u_u_email": "michael.davis@example.com",
+    "u_addr": "202 Cedar St",
+    "u_contact": "555-6789"
+  },
+  {
+    "u_serid": 6,
+    "u_name": "JessicaMiller",
+    "u_pwd": "123456",
+    "u_u_email": "jessica.miller@example.com",
+    "u_addr": "303 Birch St",
+    "u_contact": "555-9876"
+  },
+  {
+    "u_serid": 7,
+    "u_name": "DavidWilson",
+    "u_pwd": "monkey",
+    "u_u_email": "david.wilson@example.com",
+    "u_addr": "404 Spruce St",
+    "u_contact": "555-8765"
+  },
+  {
+    "u_serid": 8,
+    "u_name": "SarahMoore",
+    "u_pwd": "password1",
+    "u_u_email": "sarah.moore@example.com",
+    "u_addr": "505 Redwood St",
+    "u_contact": "555-2345"
+  },
+  {
+    "u_serid": 9,
+    "u_name": "JamesTaylor",
+    "u_pwd": "iloveyou",
+    "u_u_email": "james.taylor@example.com",
+    "u_addr": "606 Cherry St",
+    "u_contact": "555-6780"
+  },
+  {
+    "u_serid": 10,
+    "u_name": "LauraAnderson",
+    "u_pwd": "password123",
+    "u_u_email": "laura.anderson@example.com",
+    "u_addr": "707 Aspen St",
+    "u_contact": "555-4320"
+  }
+]

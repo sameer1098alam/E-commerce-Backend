@@ -1,0 +1,19 @@
+//npm init -y
+//yard add express --save
+//how to run cart on postman
+//http://localhost:8080/carts/insertcart        ->post 
+//http://localhost:8080/carts/fetchcart         ->fetch 
+//http://localhost:8080/carts/deletecart        ->delete
+//http://localhost:8080/carts/updatecart        ->update
+
+
+
+//for product 
+
+insert 
+post
+delete
+update
+
+//for user
+ 
